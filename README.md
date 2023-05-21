@@ -7,3 +7,6 @@ Sí el código no funciona, puedes probar a ejecutar este comando antes $env:NOD
 El código del ejercicio está hecho en una versión antigua de Chart.js, la cual respete, pero al ser una versión antigua tuve que trabajar de diferente manera, 
 convirtiendo los elementos del gráfico a HTML, para poder manipularlos fácilmente.
 
+angelo_developer@hotmail.com
+
+
